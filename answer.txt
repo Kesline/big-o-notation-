@@ -1,0 +1,40 @@
+True or false: n^2 + n is O(n^2). 
+A: True
+
+
+True or false: n^2 * n is O(n^3). 
+A: True
+
+
+True or false: n^2 + n is O(n). 
+A:  False
+
+
+What’s the time complexity of the .indexOf array method? 
+A : O(n)
+What’s the time complexity of the .includes array method? 
+A: O(n)
+
+What’s the time complexity of the .forEach array method? 
+A: O(n) at least (depends on what the callback does)
+
+What’s the time complexity of the .sort array method? 
+A: O(n log n)
+
+What’s the time complexity of the .unshift array method? 
+A: O(n)
+
+What’s the time complexity of the .push array method? 
+A: O(1)
+
+What’s the time complexity of the .splice array method? 
+A: O(n) 
+
+What’s the time complexity of the .pop array method? 
+A: O(1)
+
+What’s the time complexity of the Object.keys() function? 
+A: O(n)
+
+What’s the space complexity of the Object.keys() function? 
+A: O(n)
